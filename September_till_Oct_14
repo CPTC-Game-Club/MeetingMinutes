@@ -1,2 +1,13 @@
 Most of September was on break, so we didn't meet. Attempted building out Retropie version 3. See Ninja Turtles machine in corner of Joe's room.
 Previous meeting we played GeoGuesser.
+
+Update BIOS on retropie
+f10 gets out of retropie menu
+f2 opens up emulator options
+
+Steps to get retropie setup:
+
+Create retropie on external hard drive by flashing. this also create folders for spaces for ROMs. 
+
+Next plug retropie into game console and roms will automatically load. 
+
